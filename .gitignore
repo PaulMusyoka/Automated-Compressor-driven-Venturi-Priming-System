@@ -1,0 +1,8 @@
+*.hex
+*.bak
+*.elf
+*.bin
+*.pyc
+.DS_Store
+__pycache__/
+.vscode/
